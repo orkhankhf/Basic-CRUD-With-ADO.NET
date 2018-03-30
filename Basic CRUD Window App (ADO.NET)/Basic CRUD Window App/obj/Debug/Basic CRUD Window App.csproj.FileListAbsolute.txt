@@ -1,0 +1,10 @@
+C:\Users\P104\Desktop\Basic CRUD Window App\Basic CRUD Window App\bin\Debug\Basic CRUD Window App.exe.config
+C:\Users\P104\Desktop\Basic CRUD Window App\Basic CRUD Window App\bin\Debug\Basic CRUD Window App.exe
+C:\Users\P104\Desktop\Basic CRUD Window App\Basic CRUD Window App\bin\Debug\Basic CRUD Window App.pdb
+C:\Users\P104\Desktop\Basic CRUD Window App\Basic CRUD Window App\obj\Debug\Basic CRUD Window App.csprojResolveAssemblyReference.cache
+C:\Users\P104\Desktop\Basic CRUD Window App\Basic CRUD Window App\obj\Debug\Basic_CRUD_Window_App.Form1.resources
+C:\Users\P104\Desktop\Basic CRUD Window App\Basic CRUD Window App\obj\Debug\Basic_CRUD_Window_App.Properties.Resources.resources
+C:\Users\P104\Desktop\Basic CRUD Window App\Basic CRUD Window App\obj\Debug\Basic CRUD Window App.csproj.GenerateResource.Cache
+C:\Users\P104\Desktop\Basic CRUD Window App\Basic CRUD Window App\obj\Debug\Basic CRUD Window App.csproj.CoreCompileInputs.cache
+C:\Users\P104\Desktop\Basic CRUD Window App\Basic CRUD Window App\obj\Debug\Basic CRUD Window App.exe
+C:\Users\P104\Desktop\Basic CRUD Window App\Basic CRUD Window App\obj\Debug\Basic CRUD Window App.pdb
